@@ -1,4 +1,4 @@
-# VIM notes
+# Vim notes
 
 ## Current Configuration
 
@@ -6,6 +6,7 @@
 -   Pathogen                [Link](https://github.com/tpope/vim-pathogen)
 -   ctrlp                   [Link](https://github.com/kien/ctrlp.vim)
 -   html5.vim               [Link](https://github.com/othree/html5.vim)
+-   closetag.vim            [Link](http://www.vim.org/scripts/script.php?script_id=13)
 -   matchit                 [Link](http://www.vim.org/scripts/script.php?script_id=39)
 -   Syntastic               [Link](https://github.com/scrooloose/syntastic)
 -   vim-airline             [Link](https://github.com/bling/vim-airline)
@@ -20,7 +21,6 @@
 
 ### Considering
 -   JavaScript Indent       [Link](http://www.vim.org/scripts/script.php?script_id=3081)
--   closetag.vim            [Link](http://www.vim.org/scripts/script.php?script_id=13)
 -   vim-css-color           [Link](https://github.com/ap/vim-css-color)
 -   SuperTab                [Link](http://www.vim.org/scripts/script.php?script_id=1643)
 -   YouCompleteMe           [Link](http://valloric.github.io/YouCompleteMe/)
@@ -36,7 +36,10 @@
 
 ## Learned through use
 
+    :r filename             Read a filename into the buffer. Short for :read filename
+
     :Errors                 Load Syntastic errors into location list.
+    :lclose                 Close location list.
 
     Chrome vim plugin       http://vimium.github.io/
 
@@ -767,7 +770,7 @@ while cursor is on the first of a pair
     <C-v>   enter visual block mode
     I       "block insert"
 
-## Using a Mouse with VIM (skipped)
+## Using a Mouse with Vim (skipped)
 [Link](http://usevim.com/2012/05/16/mouse/)
 
 ## Visual Mode
@@ -789,7 +792,7 @@ from visual mode
 ## Marks (skipped)
 [Link](http://usevim.com/2012/05/04/marks/)
 
-## VIM Splits - Move Faster and More Naturally
+## Vim Splits - Move Faster and More Naturally
 [Link](http://robots.thoughtbot.com/post/48275867281/vim-splits-move-faster-and-more-naturally)
 
     :sp   horizontal split
@@ -1137,7 +1140,7 @@ While in insert mode...
 [Link](http://usevim.com/2012/03/16/editing-remote-files/)
 
     vim scp://server/file
-    vim scp://maginatics@staging.maginatics.com/.bash_profile
+    vim scp://kurt@shortname.example.com/.vimrc
 
     ~/.ssh/config
     host shortname
