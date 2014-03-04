@@ -36,6 +36,9 @@
 
 ## Learned through use
 
+    :%norm! @q              Apply a macro to all lines.
+    :5,10norm! @q           Apply a macro to lines 5 through 10.
+
     :r filename             Read a filename into the buffer. Short for :read filename
 
     :Errors                 Load Syntastic errors into location list.
