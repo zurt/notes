@@ -36,6 +36,8 @@
 
 ## Learned through use
 
+    :tabmove 0              Change the order of tabs. Indexed left to right starting at zero.
+
     :%norm! @q              Apply a macro to all lines.
     :5,10norm! @q           Apply a macro to lines 5 through 10.
 
