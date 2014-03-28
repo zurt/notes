@@ -343,10 +343,8 @@ Methodology:
 2. Create a clean browser environment
 3. Measurement and analysis. Create a clean browser environment
 4. Solutions
-  - script at bottom
-  - script async/defer
-  -
-  -
+  * script at bottom
+  * script async/defer
 5. Make changes
 
 Recommend Ilya's Browser Networking book: [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
