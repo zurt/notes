@@ -1,5 +1,18 @@
 # EmberConf
 
+## Summary
+
+The high level takeways:
+
+* The community is very __healthy__: There were 430 attendees of the conference and there are 330 committers to the core Ember.js project on Github.
+* The biggest themes of the conference were scaling developer __productivity__ and improved __performance__.
+* A growing number large companies are releasing __ambitious single-page web apps__ built with Ember: Yahoo!, Netflix, Square
+* 4 major Ember projects are landing in the next few months that will provide significant productivity and performance improvements:
+  1. __Ember-CLI__ is a command line utility for managing Ember projects. [Link](https://github.com/stefanpenner/ember-cli)
+  2. __Broccoli__ provides very fast builds. [Link](http://www.solitr.com/blog/2014/02/broccoli-first-release)
+  3. __HTMLBars__ replaces Handlebars with a much faster (and smarter) templating engine. [Link](https://github.com/tildeio/htmlbars)
+  4. __Ember Data 1.0__ provides a data persistence framework. [Link](http://emberjs.com/blog/2014/03/18/the-road-to-ember-data-1-0.html)
+
 __2014-03-25__
   *  *  *  *
 
