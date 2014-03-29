@@ -36,7 +36,7 @@ The story of why you became an Ember developer is that Ember made you a more pro
 
 ## Using Ember to Make the Seemingly Impossible Easy
 
-Andre Malan and Heyjin Kim | [@ramcio](https://twitter.com/ramcio) and [@heyjinkim](https://twitter.com/heyjinkim) | [Simple Reach](simplereach.com)
+Andre Malan and Heyjin Kim | [@ramcio](https://twitter.com/ramcio) and [@heyjinkim](https://twitter.com/heyjinkim) | [Simple Reach](simplereach.com) | [Slides](https://speakerdeck.com/simplereach/using-ember-to-make-the-seemingly-impossible-easy)
 
 _Migration_
 
