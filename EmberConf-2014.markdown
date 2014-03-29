@@ -334,6 +334,7 @@ Change state and get route traversal for free. How did we do this?
 
 Matthew Beale | [@mixonic](https://twitter.com/mixonic)
 
+* [Performance in Ember Apps](http://madhatted.com/2014/3/28/via-emberconf-performance-in-ember-apps)
 * [Developing an Ember.js Edge](https://gumroad.com/l/XlSx)
 * [Client-side Auth with Ember.js (Slides)](http://www.slideshare.net/mixonic/client-side-auth-with-ember)
 
