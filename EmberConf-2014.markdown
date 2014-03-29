@@ -194,8 +194,13 @@ Jeremy Mack | [@mutewinter](https://twitter.com/mutewinter)
 
 * "I make apps with Ember" on his business card.
 * Tapas with Ember
+* Coffeescript
 
-### fnd.io
+["Everyone knows their name" slide with code"](http://cl.ly/image/0v2O0O0U2A26) from [this tweet](https://twitter.com/mutewinter/status/448881774077022208)
+
+### Launching [fnd.io](https://fnd.io) today
+
+[Macstories article on launch](http://www.macstories.net/news/fnd-brings-fast-convenient-itunes-store-search-and-product-pages-to-the-web/)
 
 Really amazing high level use of Ember and Ember Data to wrap the iTunes store search APIs.
 
@@ -247,7 +252,7 @@ Devaris Brown | [@devarisbrown](https://twitter.com/devarispbrown) | [Zendesk](h
 
 * 38% unemployment rate African American ages 16-19.
 * Tough to be a teacher because of the surrounding context outside the class.
-* Need to teach typing.io
+* Need to teach [typing.io](http://typing.io)
 
 ### Get involved.
 
