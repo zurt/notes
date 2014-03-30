@@ -13,6 +13,12 @@ The high level takeways:
   3. __HTMLBars__ replaces Handlebars with a much faster (and smarter) templating engine. [Link](https://github.com/tildeio/htmlbars)
   4. __Ember Data 1.0__ provides a data persistence framework. [Link](http://emberjs.com/blog/2014/03/18/the-road-to-ember-data-1-0.html)
 
+Blog writeups:
+
+* [Session by session writeups by Allison Sheren](http://allisonsherenmcmillan.blogspot.com/search/label/emberconf%202014)
+* [Ember Conf 2014 Wrap Up by Justin Ball](http://www.justinball.com/2014/03/27/ember-conf-2014-wrap-up/)
+* [Illustrated Notes of EmberConf2014 by Michael Chan](http://chantastic.io/emberconf2014/)
+
 __2014-03-25__
   *  *  *  *
 
