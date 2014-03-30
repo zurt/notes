@@ -124,7 +124,9 @@ Data Persistence Framework
 
 ## Broccoli
 
-Jo Liss | [@jo_liss](https://twitter.com/jo_liss) | [Broccoli First Release Blog Post](http://www.solitr.com/blog/2014/02/broccoli-first-release/)
+Jo Liss | [@jo_liss](https://twitter.com/jo_liss) | [Slides](http://www.slideshare.net/jo_liss/broccoli-32911567)
+
+* [Broccoli First Release Blog Post](http://www.solitr.com/blog/2014/02/broccoli-first-release/)
 
 ### Motivations
 
