@@ -36,7 +36,7 @@ The story of why you became an Ember developer is that Ember made you a more pro
 
 ## Using Ember to Make the Seemingly Impossible Easy
 
-Andre Malan and Heyjin Kim | [@ramcio](https://twitter.com/ramcio) and [@heyjinkim](https://twitter.com/heyjinkim) | [Simple Reach](simplereach.com) | [Slides](https://speakerdeck.com/simplereach/using-ember-to-make-the-seemingly-impossible-easy)
+Andre Malan and Heyjin Kim | [@ramcio](https://twitter.com/ramcio) and [@heyjinkim](https://twitter.com/heyjinkim) | [Simple Reach](http://www.simplereach.com) | [Slides](https://speakerdeck.com/simplereach/using-ember-to-make-the-seemingly-impossible-easy)
 
 _Migration_
 
@@ -276,7 +276,7 @@ Eric Berry | [@coderberry](https://twitter.com/coderberry) | [Slides](https://sp
 
 ## Convergent Divergent Faits Precis
 
-Chris Meiklejohn | [@cmeik](https://twitter.com/cmeik) | [chrisophermeiklejohn.com](http://chrisophermeiklejohn.com/) | [Slides](https://speakerdeck.com/cmeiklejohn/divergent)
+Chris Meiklejohn | [@cmeik](https://twitter.com/cmeik) | [chrisophermeiklejohn.com](http://christophermeiklejohn.com/) | [Slides](https://speakerdeck.com/cmeiklejohn/divergent)
 
 * Basho, Georgia Tech grad student, Podcast Think Distributed
 * [Syncfree project](http://syncfree.lip6.fr)
