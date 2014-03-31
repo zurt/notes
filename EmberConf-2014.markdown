@@ -18,6 +18,7 @@ Blog writeups:
 * [Session by session writeups by Allison Sheren](http://allisonsherenmcmillan.blogspot.com/search/label/emberconf%202014)
 * [Ember Conf 2014 Wrap Up by Justin Ball](http://www.justinball.com/2014/03/27/ember-conf-2014-wrap-up/)
 * [Illustrated Notes of EmberConf2014 by Michael Chan](http://chantastic.io/emberconf2014/)
+* [We are EmberConf 2014 by Bill Heaton](http://pixelhandler.com/posts/we-are-emberconf-2014)
 
 __2014-03-25__
   *  *  *  *
