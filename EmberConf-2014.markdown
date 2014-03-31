@@ -203,7 +203,7 @@ Component Lists from Paul and @coderberry. The goal is to make these reusable an
 
 ## Modeling the App Store and iTunes with Ember Data
 
-Jeremy Mack | [@mutewinter](https://twitter.com/mutewinter)
+Jeremy Mack | [@mutewinter](https://twitter.com/mutewinter) | [Slides](http://emberconf.com/images/slides/2014_jmack.pdf)
 
 * "I make apps with Ember" on his business card.
 * Tapas with Ember
@@ -261,7 +261,7 @@ Yapp does consulting work.
 
 ## Ember is for the children
 
-Devaris Brown | [@devarisbrown](https://twitter.com/devarispbrown) | [Zendesk](http://www.zendesk.com/)
+Devaris Brown | [@devarisbrown](https://twitter.com/devarispbrown) | [Zendesk](http://www.zendesk.com/) | [Slides](https://speakerdeck.com/devarispbrown/ember-is-for-the-children)
 
 * 38% unemployment rate African American ages 16-19.
 * Tough to be a teacher because of the surrounding context outside the class.
