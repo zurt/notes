@@ -1,6 +1,6 @@
 # EmberConf 2014
 
-The first EmberConf was a rousing success. Presenters ranged from experienced speakers to first-time speakers and from core team members to app developers. All of these perspectives were essential to represent the complete Ember community. Huge thanks to [@wifelette](https://twitter.com/wifelette) and the rest of the conference organizers for working so hard to make this event a reflection of all the aspects we love about Ember.
+The first EmberConf was a rousing success. Presenters ranged from experienced speakers to first-time speakers and from core team members to app developers. All of these perspectives were essential to represent the complete Ember community. Huge thanks to [Leah Silber](https://twitter.com/wifelette) and the rest of the conference organizers for working so hard to make this event a reflection of all the aspects we love about Ember.
 
 While I took fewer notes for some talks than others, the correct interpretation is not that those presentations were less interesting, but rather than those speakers were engaging and their slides were detailed.
 
