@@ -118,7 +118,7 @@ DOC, BUGFIX, FEATURE, SECURITY
 
 ## Ember Data
 
-Igor Terzic | [@terzicigor](https://twitter.com/terzicigor)
+Igor Terzic | [@terzicigor](https://twitter.com/terzicigor) | [Slides](http://terzicigor.com/talks/index.html#/)
 
 Framework: "Way of reasoning about problems abstractions."
 
@@ -201,6 +201,8 @@ John K. Paul | [@johnkpaul](http://ef4.github.io/ember-animation-demo/#/title-sl
 
 Component Lists from Paul and @coderberry. The goal is to make these reusable and shared.
 
+"Transclusion" is a real thing and pretty useful: [Wikipedia explanation](http://en.wikipedia.org/wiki/Transclusion)
+
 ## Modeling the App Store and iTunes with Ember Data
 
 Jeremy Mack | [@mutewinter](https://twitter.com/mutewinter) | [Slides](http://emberconf.com/images/slides/2014_jmack.pdf)
@@ -221,7 +223,7 @@ _Using fast click for really fast touch events._
 
 ## HTMLBars
 
-Erik Bryn and Kris Selden | [@krisselden](https://twitter.com/krisselden) and [@ebryn](https://twitter.com/ebryn)
+Erik Bryn and Kris Selden | [@krisselden](https://twitter.com/krisselden) and [@ebryn](https://twitter.com/ebryn) | [Slides](http://talks.erikbryn.com/htmlbars-emberconf/#/)
 
 Ha! Almost ready. But it's going to be awesome and fast.
 
@@ -251,7 +253,7 @@ Child components tell parent components that they exist rather than parent look 
 
 ## Ember CLI
 
-Stefan Penner | [@stefanpenner](https://twitter.com/stefanpenner) | [Yapp](http://yapp.us)
+Stefan Penner | [@stefanpenner](https://twitter.com/stefanpenner) | [Yapp](http://yapp.us) | [Slides](http://static.iamstef.net/ember_conf_2014.pdf)
 
 Yapp does consulting work.
 
