@@ -207,7 +207,7 @@ Component Lists from Paul and @coderberry. The goal is to make these reusable an
 
 Jeremy Mack | [@mutewinter](https://twitter.com/mutewinter) | [Slides](http://emberconf.com/images/slides/2014_jmack.pdf)
 
-* "I make apps with Ember" on his business card.
+* "I create with Ember" on his business card.
 * Tapas with Ember
 * Coffeescript
 
