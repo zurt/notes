@@ -24,6 +24,10 @@ Blog writeups:
 * [Illustrated Notes of EmberConf2014 by Michael Chan](http://chantastic.io/emberconf2014/)
 * [We are EmberConf 2014 by Bill Heaton](http://pixelhandler.com/posts/we-are-emberconf-2014)
 
+## Videos
+
+[All videos on Confreaks](http://confreaks.com/events/emberconf2014)
+
 Extra Sessions:
 
 * [Empty Your Cup Reflections on Learning Ember presented by Matt Jones](http://confreaks.com/videos/3460-emberconf2014-empty-your-cup-reflections-on-learning-ember)
@@ -31,6 +35,7 @@ Extra Sessions:
 * [Array Computing Properties presented by David Hamilton](http://confreaks.com/videos/3457-emberconf2014-array-computing-properties)
 * [Ember & SOA presented by Jeremy Green](http://confreaks.com/videos/3458-emberconf2014-ember-soa)
 * [Admin Your App: or Why Internal Tools Matter presented by Michael Becker](http://confreaks.com/videos/3459-emberconf2014-admin-your-app-or-why-internal-tools-matter)
+
 
 __2014-03-25__
   *  *  *  *
