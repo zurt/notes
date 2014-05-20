@@ -20,6 +20,7 @@
 -   NERDTree                [Link](https://github.com/scrooloose/nerdtree)
 
 ### Considering
+-   Ag replacement for Ack  [Link](https://github.com/ggreer/the_silver_searcher)
 -   JavaScript Indent       [Link](http://www.vim.org/scripts/script.php?script_id=3081)
 -   vim-css-color           [Link](https://github.com/ap/vim-css-color)
 -   SuperTab                [Link](http://www.vim.org/scripts/script.php?script_id=1643)
@@ -35,6 +36,11 @@
 -   inkpot
 
 ## Learned through use
+
+    <S-v>
+    :norm yss<li>           Surround all selected lines with <li></li>
+
+    :%s/>\s*</>\r</g        Break all tags to new lines
 
     :tabmove 0              Change the order of tabs. Indexed left to right starting at zero.
 
@@ -81,8 +87,15 @@ surround.vim
 
     U                       Uppercase selected text
     u                       Lowercase selected text
+    :g/debugger/s//\/\/debugger/g
+                            Replace debugger with //debugger throughout the whole file
+    :g/\/\/debugger/s//debugger/g
+                            Replace //debugger with debugger throughout the whole file
+
+    U                       Uppercase selected text
+    u                       Lowercase selected text
     ~                       Toggle case of character under cursor
-    g~iw                     Toggle case on inner word
+    g~iw                    Toggle case on inner word
 
     ge                      Backwards word end (inclusive) word motion
     gE                      Backwards word end (inclusive) WORD motion
