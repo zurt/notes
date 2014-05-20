@@ -24,6 +24,14 @@ Blog writeups:
 * [Illustrated Notes of EmberConf2014 by Michael Chan](http://chantastic.io/emberconf2014/)
 * [We are EmberConf 2014 by Bill Heaton](http://pixelhandler.com/posts/we-are-emberconf-2014)
 
+Extra Sessions:
+
+* [Empty Your Cup Reflections on Learning Ember presented by Matt Jones](http://confreaks.com/videos/3460-emberconf2014-empty-your-cup-reflections-on-learning-ember)
+* [Extending Ember with Analytics presented by Alex DiLiberto](http://confreaks.com/videos/3456-emberconf2014-extending-ember-with-analytics)
+* [Array Computing Properties presented by David Hamilton](http://confreaks.com/videos/3457-emberconf2014-array-computing-properties)
+* [Ember & SOA presented by Jeremy Green](http://confreaks.com/videos/3458-emberconf2014-ember-soa)
+* [Admin Your App: or Why Internal Tools Matter presented by Michael Becker](http://confreaks.com/videos/3459-emberconf2014-admin-your-app-or-why-internal-tools-matter)
+
 __2014-03-25__
   *  *  *  *
 
@@ -33,7 +41,7 @@ __2014-03-25__
 
 ## Keynote
 
-Yehuda Katz and Tom Dale | [@wycats](https://twitter.com/wycats) and [@tomdale](https://twitter.com/tomdale) | [Slides](https://speakerdeck.com/tomdale/emberconf-2014-keynote)
+Yehuda Katz and Tom Dale | [@wycats](https://twitter.com/wycats) and [@tomdale](https://twitter.com/tomdale) | [Slides](https://speakerdeck.com/tomdale/emberconf-2014-keynote) | [Video](http://confreaks.com/videos/3297-emberconf2014-keynote)
 
 ### Productivity
 
@@ -47,7 +55,7 @@ The story of why you became an Ember developer is that Ember made you a more pro
 
 ## Using Ember to Make the Seemingly Impossible Easy
 
-Andre Malan and Heyjin Kim | [@ramcio](https://twitter.com/ramcio) and [@heyjinkim](https://twitter.com/heyjinkim) | [Simple Reach](http://www.simplereach.com) | [Slides](https://speakerdeck.com/simplereach/using-ember-to-make-the-seemingly-impossible-easy)
+Andre Malan and Heyjin Kim | [@ramcio](https://twitter.com/ramcio) and [@heyjinkim](https://twitter.com/heyjinkim) | [Simple Reach](http://www.simplereach.com) | [Slides](https://speakerdeck.com/simplereach/using-ember-to-make-the-seemingly-impossible-easy) | [Video](http://confreaks.com/videos/3298-emberconf2014-using-ember-to-make-the-seemingly-impossible-easy)
 
 _Migration_
 
@@ -65,7 +73,7 @@ Further reading:
 
 ## Contributing to Ember
 
-Robert Jackson | [@rwjblue](https://twitter.com/rwjblue) | [Slides](https://speakerdeck.com/rwjblue/contributing-to-ember)
+Robert Jackson | [@rwjblue](https://twitter.com/rwjblue) | [Slides](https://speakerdeck.com/rwjblue/contributing-to-ember) | [Video](http://confreaks.com/videos/3299-emberconf2014-contributing-to-ember-the-inside-scoop)
 
 ### Why is Ember Awesome?
 
@@ -118,7 +126,7 @@ DOC, BUGFIX, FEATURE, SECURITY
 
 ## Ember Data
 
-Igor Terzic | [@terzicigor](https://twitter.com/terzicigor) | [Slides](http://terzicigor.com/talks/index.html#/)
+Igor Terzic | [@terzicigor](https://twitter.com/terzicigor) | [Slides](http://terzicigor.com/talks/index.html#/) | [Video](http://confreaks.com/videos/3300-emberconf2014-ember-data-and-the-way-forward)
 
 Framework: "Way of reasoning about problems abstractions."
 
@@ -135,7 +143,7 @@ Data Persistence Framework
 
 ## Broccoli
 
-Jo Liss | [@jo_liss](https://twitter.com/jo_liss) | [Slides](http://www.slideshare.net/jo_liss/broccoli-32911567)
+Jo Liss | [@jo_liss](https://twitter.com/jo_liss) | [Slides](http://www.slideshare.net/jo_liss/broccoli-32911567) | [Video](http://confreaks.com/videos/3301-emberconf2014-no-more-grunt-watch-modern-build-workflows-with-broccoli)
 
 * [Broccoli First Release Blog Post](http://www.solitr.com/blog/2014/02/broccoli-first-release/)
 
@@ -184,7 +192,7 @@ Fingerprinting discussion. Has to be done by Broccoli or EmberCLI. There is a gr
 
 ## Animations and Transitions
 
-Edward Faulkner | [@eaf4](https://twitter.com/eaf4) | [Slides](http://ef4.github.io/ember-animation-demo/#/title-slide)
+Edward Faulkner | [@eaf4](https://twitter.com/eaf4) | [Slides](http://ef4.github.io/ember-animation-demo/#/title-slide) | [Video](http://confreaks.com/videos/3302-emberconf2014-animations-and-transitions-in-an-ember-app)
 
 [Follow along with the demo](http://e4.github.io/ember-animation-demo)
 
@@ -197,7 +205,7 @@ Edward Faulkner | [@eaf4](https://twitter.com/eaf4) | [Slides](http://ef4.github
 
 ## Angular
 
-John K. Paul | [@johnkpaul](http://ef4.github.io/ember-animation-demo/#/title-slide) | [Slides](http://johnkpaul.github.io/presentations/emberconf/components-transclude-directives/#/)
+John K. Paul | [@johnkpaul](http://ef4.github.io/ember-animation-demo/#/title-slide) | [Slides](http://johnkpaul.github.io/presentations/emberconf/components-transclude-directives/#/) | [Video](http://confreaks.com/videos/3303-emberconf2014-ember-components-transclude-my-directives)
 
 Component Lists from Paul and @coderberry. The goal is to make these reusable and shared.
 
@@ -205,7 +213,7 @@ Component Lists from Paul and @coderberry. The goal is to make these reusable an
 
 ## Modeling the App Store and iTunes with Ember Data
 
-Jeremy Mack | [@mutewinter](https://twitter.com/mutewinter) | [Slides](http://emberconf.com/images/slides/2014_jmack.pdf)
+Jeremy Mack | [@mutewinter](https://twitter.com/mutewinter) | [Slides](http://emberconf.com/images/slides/2014_jmack.pdf) | [Video](http://confreaks.com/videos/3304-emberconf2014-modeling-the-app-store-and-itunes-with-ember-data)
 
 * "I create with Ember" on his business card.
 * Tapas with Ember
@@ -223,7 +231,7 @@ _Using fast click for really fast touch events._
 
 ## HTMLBars
 
-Erik Bryn and Kris Selden | [@krisselden](https://twitter.com/krisselden) and [@ebryn](https://twitter.com/ebryn) | [Slides](http://talks.erikbryn.com/htmlbars-emberconf/#/)
+Erik Bryn and Kris Selden | [@krisselden](https://twitter.com/krisselden) and [@ebryn](https://twitter.com/ebryn) | [Slides](http://talks.erikbryn.com/htmlbars-emberconf/#/) | [Video](http://confreaks.com/videos/3305-emberconf2014-htmlbars-the-next-generation-of-templating-in-ember-js)
 
 Ha! Almost ready. But it's going to be awesome and fast.
 
@@ -232,7 +240,7 @@ __2014-03-26__
 
 ## The {{x-foo}} In You
 
-Ryan Florence | [@ryanflorence](https://twitter.com/ryanflorence) | [Instructure](http://instructure.com) | [Slides](https://github.com/rpflorence/talk-emberconf-2014)
+Ryan Florence | [@ryanflorence](https://twitter.com/ryanflorence) | [Instructure](http://instructure.com) | [Slides](https://github.com/rpflorence/talk-emberconf-2014) | [Video](http://confreaks.com/videos/3306-emberconf2014-the-x-foo-in-you)
 
 Components are:
 
@@ -253,7 +261,7 @@ Child components tell parent components that they exist rather than parent look 
 
 ## Ember CLI
 
-Stefan Penner | [@stefanpenner](https://twitter.com/stefanpenner) | [Yapp](http://yapp.us) | [Slides](http://static.iamstef.net/ember_conf_2014.pdf)
+Stefan Penner | [@stefanpenner](https://twitter.com/stefanpenner) | [Yapp](http://yapp.us) | [Slides](http://static.iamstef.net/ember_conf_2014.pdf) | [Video](http://confreaks.com/videos/3307-emberconf2014-software-productivity-and-ember-ember-cli)
 
 Yapp does consulting work.
 
@@ -263,7 +271,7 @@ Yapp does consulting work.
 
 ## Ember is for the children
 
-Devaris Brown | [@devarisbrown](https://twitter.com/devarispbrown) | [Zendesk](http://www.zendesk.com/) | [Slides](https://speakerdeck.com/devarispbrown/ember-is-for-the-children)
+DeVaris Brown | [@devarisbrown](https://twitter.com/devarispbrown) | [Zendesk](http://www.zendesk.com/) | [Slides](https://speakerdeck.com/devarispbrown/ember-is-for-the-children) | [Video](http://confreaks.com/videos/3308-emberconf2014-ember-is-for-the-children)
 
 * 38% unemployment rate African American ages 16-19.
 * Tough to be a teacher because of the surrounding context outside the class.
@@ -275,7 +283,7 @@ Devaris Brown | [@devarisbrown](https://twitter.com/devarispbrown) | [Zendesk](h
 
 ## The one where Mr. Router embraces the controller
 
-Alex Matchneer | [@machty](https://twitter.com/machty) | [Slides](https://speakerdeck.com/machty/emberconf-2014-mr-router-embraces-the-controller-alex-matchneer)
+Alex Matchneer | [@machty](https://twitter.com/machty) | [Slides](https://speakerdeck.com/machty/emberconf-2014-mr-router-embraces-the-controller-alex-matchneer) | [Video](http://confreaks.com/videos/3309-emberconf2014-mr-router-embraces-the-controller)
 
 Query parameters are still coming. The holdup is the missing primitive for state and the right defaults so that the behavior matches the most common use cases. There is a general state serialization that the controller will provide that can be targeted at query params or localStorage (or maybe something else like serializing the state to the server).
 
@@ -284,14 +292,14 @@ Query parameters are still coming. The holdup is the missing primitive for state
 ## The Unofficial Ember Testing Guide
 
 
-Eric Berry | [@coderberry](https://twitter.com/coderberry) | [Slides](https://speakerdeck.com/coderberry/the-unofficial-official-ember-testing-guide)
+Eric Berry | [@coderberry](https://twitter.com/coderberry) | [Slides](https://speakerdeck.com/coderberry/the-unofficial-official-ember-testing-guide) | [Video](http://confreaks.com/videos/3310-emberconf2014-the-unofficial-official-ember-testing-guide)
 
 * qunit is the happy path. but mocha and jasmine should be supported too.
 * Ember.test provides helpers, Qunit provides assertions.
 
 ## Convergent Divergent Faits Precis
 
-Chris Meiklejohn | [@cmeik](https://twitter.com/cmeik) | [chrisophermeiklejohn.com](http://christophermeiklejohn.com/) | [Slides](https://speakerdeck.com/cmeiklejohn/divergent)
+Chris Meiklejohn | [@cmeik](https://twitter.com/cmeik) | [chrisophermeiklejohn.com](http://christophermeiklejohn.com/) | [Slides](https://speakerdeck.com/cmeiklejohn/divergent) | [Video](http://confreaks.com/videos/3311-emberconf2014-convergent-divergent)
 
 * Basho, Georgia Tech grad student, Podcast Think Distributed
 * [Syncfree project](http://syncfree.lip6.fr)
@@ -316,7 +324,7 @@ _When you push state to the client, that data is going to become stale._
 
 ## Controlling Route Traversal With Flows
 
-Nathan Hammond | [@nathanhammond](https://twitter.com/nathanhammond) | [Slides](https://www.dropbox.com/s/02peoxevqwjz1bu/Controlling%20Route%20Traversal.pdf)
+Nathan Hammond | [@nathanhammond](https://twitter.com/nathanhammond) | [Slides](https://www.dropbox.com/s/02peoxevqwjz1bu/Controlling%20Route%20Traversal.pdf) | [Video](http://confreaks.com/videos/3312-emberconf2014-controlling-route-traversal-with-flows)
 
 Categories of URLs:
 
@@ -352,7 +360,7 @@ Change state and get route traversal for free. How did we do this?
 ## Snappy Means Happy
 ### Performance in Ember Apps
 
-Matthew Beale | [@mixonic](https://twitter.com/mixonic) | [Slides](http://madhatted.com/2014/3/28/via-emberconf-performance-in-ember-apps)
+Matthew Beale | [@mixonic](https://twitter.com/mixonic) | [Slides](http://madhatted.com/2014/3/28/via-emberconf-performance-in-ember-apps) | [Video](http://confreaks.com/videos/3313-emberconf2014-snappy-means-happy-performance-in-ember-apps)
 
 * [Developing an Ember.js Edge](https://gumroad.com/l/XlSx)
 * [Client-side Auth with Ember.js (Slides)](http://www.slideshare.net/mixonic/client-side-auth-with-ember)
@@ -400,7 +408,7 @@ Ember debugging a slow list obsever
 
 ## Evolution Is Awesome
 
-David Herman | [@littlecalculist](https://twitter.com/littlecalculist)
+David Herman | [@littlecalculist](https://twitter.com/littlecalculist) | [Slides](https://speakerdeck.com/dherman/evolution-is-awesome) | [Video](http://confreaks.com/videos/3314-emberconf2014-keynote-evolution)
 
 ### Evolution versus Revolution
 
