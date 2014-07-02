@@ -37,6 +37,19 @@
 
 ## Learned through use
 
+    :setlocal wrap          Set text to wrap in current buffer only. Useful for vimdiff.
+
+    Quickly diff two buffers.
+    :edit file1
+    :diffthis
+    :vnew                   Split the current view
+    :edit file2
+    :diffthis
+
+    v_g_CTRL-G              Get more information about characters in selection (:help v_g_CTRL-G)
+
+    :let @" = expand('%:t') Copy the name of the current file to the unnamed register
+
     <S-v>
     :norm yss<li>           Surround all selected lines with <li></li>
 
@@ -1133,7 +1146,7 @@ While in insert mode...
 
     :global
     :g                        (global)
-    :g/Empire/s//Wookies/g    (match globally and then appy command)
+    :g/Empire/s//Wookies/g    (match globally and then apply command)
     :%s/Empire/Wookies/g      (range all lines in file)
     :1,10s/Ewoks/Care Bears/g (range lines 1 through 10)
     :1,10s/Ewoks/Care Bears/i (case-insensitive match)
