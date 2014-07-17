@@ -37,6 +37,13 @@
 
 ## Learned through use
 
+    :Exp                    Shortcut for :Explore. Opens Netrw directory listing in current directory.
+                            %   Create a new file in the current directory.
+                            d   Create a new directory in the current directory.
+
+    :set filetype?          Display filetype setting for current split.
+    :set syntax?            Display syntax settings for current split.
+
     :setlocal wrap          Set text to wrap in current buffer only. Useful for vimdiff.
 
     Quickly diff two buffers.
@@ -304,7 +311,7 @@ Modifiers
 
     :help window-moving
 
-    <C-w>T                  Move this window to a new tab
+    <C-w>T                  Move this window (split) to a new tab
 
 ## Terning Tricks
 [Link](http://usevim.com/2013/05/24/tern/)
