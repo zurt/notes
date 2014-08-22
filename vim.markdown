@@ -37,9 +37,13 @@
 
 ## Learned through use
 
+    CTRL-K .3               Example of a digraph to create an ellipsis.
+
     :Exp                    Shortcut for :Explore. Opens Netrw directory listing in current directory.
                             %   Create a new file in the current directory.
                             d   Create a new directory in the current directory.
+                            TODO: Why do I get errors when creating a new directory?
+                            Mac Terminal Vim 7.3.931
 
     :set filetype?          Display filetype setting for current split.
     :set syntax?            Display syntax settings for current split.
@@ -58,7 +62,7 @@
     :let @" = expand('%:t') Copy the name of the current file to the unnamed register
 
     <S-v>
-    :norm yss<li>           Surround all selected lines with <li></li>
+    :norm yss<li>           Surround each of the selected lines with <li></li>
 
     :%s/>\s*</>\r</g        Break all tags to new lines
 
