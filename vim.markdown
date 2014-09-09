@@ -37,6 +37,13 @@
 
 ## Learned through use
 
+    `/s;\|s\ `              Search for multiple patterns at the same time!
+
+    CTRL-Y                  While in completion mode, stop completetion and insert current selection.
+    CTRL-E                  While in completion mode, stop completetion and insert nothing.
+
+    :e                      Reload changes to the current file from disk. As simple as that.
+
     CTRL-K .3               Example of a digraph to create an ellipsis.
 
     :Exp                    Shortcut for :Explore. Opens Netrw directory listing in current directory.
