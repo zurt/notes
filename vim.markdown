@@ -37,6 +37,8 @@
 
 ## Learned through use
 
+    :%!python -m json.tool  Pretty print json.
+
     `/s;\|s\ `              Search for multiple patterns at the same time!
 
     CTRL-Y                  While in completion mode, stop completetion and insert current selection.
@@ -63,6 +65,7 @@
     :vnew                   Split the current view
     :edit file2
     :diffthis
+    :diffoff                Turn diff mode off
 
     v_g_CTRL-G              Get more information about characters in selection (:help v_g_CTRL-G)
 
@@ -1176,7 +1179,7 @@ While in insert mode...
 [Link](http://vim.wikia.com/wiki/Vim_buffer_FAQ)
 
     :ls       (list buffers)
-    :buffers  (same
+    :buffers  (same as :ls)
     :buffer # (make # buffer active)
     :ball     (open all buffers in windows)
     :vertical ball (vertical windows)
