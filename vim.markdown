@@ -4,9 +4,9 @@
 
 ### Plugins
 -   Pathogen                [Link](https://github.com/tpope/vim-pathogen)
+-   closetag.vim            [Link](http://www.vim.org/scripts/script.php?script_id=13)
 -   ctrlp                   [Link](https://github.com/kien/ctrlp.vim)
 -   html5.vim               [Link](https://github.com/othree/html5.vim)
--   closetag.vim            [Link](http://www.vim.org/scripts/script.php?script_id=13)
 -   matchit                 [Link](http://www.vim.org/scripts/script.php?script_id=39)
 -   Syntastic               [Link](https://github.com/scrooloose/syntastic)
 -   vim-airline             [Link](https://github.com/bling/vim-airline)
@@ -36,6 +36,13 @@
 -   inkpot
 
 ## Learned through use
+
+    :set shellcmdflag=-ic   Bash doesn’t load your .bashrc unless it’s interactive.
+                            Use to make Vim’s :! shell behave like your command prompt.
+
+    gq                      Rewrap text to line length from :set textwidth=80.
+
+    :let @" = expand('%:p') Copy full path and filename into the default (unnamed) register.
 
     :%!python -m json.tool  Pretty print json.
 
