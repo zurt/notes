@@ -6,6 +6,7 @@
 -   Pathogen                [Link](https://github.com/tpope/vim-pathogen)
 -   closetag.vim            [Link](http://www.vim.org/scripts/script.php?script_id=13)
 -   ctrlp                   [Link](https://github.com/kien/ctrlp.vim)
+-   dirdiff                 [Link](https://github.com/will133/vim-dirdiff)
 -   html5.vim               [Link](https://github.com/othree/html5.vim)
 -   matchit                 [Link](http://www.vim.org/scripts/script.php?script_id=39)
 -   Syntastic               [Link](https://github.com/scrooloose/syntastic)
@@ -22,20 +23,94 @@
 ### Considering
 -   Ag replacement for Ack  [Link](https://github.com/ggreer/the_silver_searcher)
 -   JavaScript Indent       [Link](http://www.vim.org/scripts/script.php?script_id=3081)
--   vim-css-color           [Link](https://github.com/ap/vim-css-color)
--   SuperTab                [Link](http://www.vim.org/scripts/script.php?script_id=1643)
--   YouCompleteMe           [Link](http://valloric.github.io/YouCompleteMe/)
 -   JavaScript Libraries Syntax [Link](https://github.com/othree/javascript-libraries-syntax.vim)
+-   neocomplcache           [Link](https://github.com/Shougo/neocomplcache.vim)
+-   SuperTab                [Link](http://www.vim.org/scripts/script.php?script_id=1643)
+-   tagbar                  [Link](https://github.com/majutsushi/tagbar)
+-   vim-css-color           [Link](https://github.com/ap/vim-css-color)
 -   vim-rails               [Link](https://github.com/tpope/vim-rails)
 -   vim-bundler             [Link](https://github.com/tpope/vim-bundler)
--   neocomplcache           [Link](https://github.com/Shougo/neocomplcache.vim)
--   tagbar                  [Link](https://github.com/majutsushi/tagbar)
+-   YouCompleteMe           [Link](http://valloric.github.io/YouCompleteMe/)
 
 ### Color Schemes
 -   wombat256mod
 -   inkpot
 
 ## Learned through use
+
+    :tabfir                 Short for :tabfirst
+    :tablast                Jump to the last tab
+
+    ga                      Identify character under cursor in command mode
+                            "Get Ascii": decimal, hex, and octal
+
+    8232, Hex 2028, Octal 20050
+                            [Line Separator U+2028](http://unicode-table.com/en/2028/)
+
+    \r                      CR “carriage return”
+    \n                      LF “line feed” or CRLF “newline”
+
+    :%s/\%u2028/\r/gc       Replace line separator
+
+    From ‘:help /\%x':
+
+    \%d123                  Matches the character specified with a decimal number. Must be followed by a non-digit.
+    \%o40                   Matches the character specified with an octal number up to 0377. Numbers below 040 must be followed by a non-octal digit or a non-digit.
+    \%x2a                   Matches the character specified with up to two hexadecimal characters.
+    \%u20AC                 Matches the character specified with up to four hexadecimal
+    characters.
+    \%U1234abcd             Matches the character specified with up to eight hexadecimal
+    characters.
+
+    :set list               Show invisibles
+    :set nolist             Hide invisiibles
+    :set list!              Toggle invisibles
+
+    5. fo<C-v>5l3jrX						*v_b_r_example*
+
+    abcdefghijklmnopqrstuvwxyz
+    abc		defghijklmnopqrstuvwxyz
+    abcdef  ghi		jklmnopqrstuvwxyz
+    abcdefghijklmnopqrstuvwxyz
+
+    abcdefghijklmnXXXXXXuvwxyz
+    abc		defghijkXXXXXXrstuvwxyz
+    abcdef  ghi		XXXXXXpqrstuvwxyz
+    abcdefghijklmnXXXXXXuvwxyz
+
+                            http://vim.wikia.com/wiki/Replace_a_word_with_yanked_text
+
+    dw                      Cut word
+    "_diwP                  Cut word into black hole and then paste from unnamed register.
+
+    yiw                     yank word
+    ciw<C-r>0               first paste (If at the start of the word then `cw<C-r>0` is sufficient.)
+    .                       second paste and successive
+
+    yiw                     yank word
+    viwp                    first paste
+    viw"0p                  second paste and successive
+
+    yy                      yank line
+    Vp                      first paste
+    V"0p                    second paste and successive
+
+    :%s/^\w\+\s\+//         Match one or more "word" characters starting at the beginning of the line
+                            followed by at least one whitespace character, then remove them.
+
+    :%s/^\s*\S\+\s*//       Match the first string of non-whitespace characters followed by a series
+                            of whitespace characters, then remove them.
+
+    gg qq dWj@qq @q         Macro to delete the first word of each line
+                         gg Go to the first line
+                         qq Record a macro into register `q`
+                         dW Delete one word including the trailing space
+                          j Go down one line
+                         @q Run the macro in register `q`
+                          q Stop recording the macro
+                         @q Run the macro in register `q`
+
+    :%norm dW               :normal replays the arguments as if typed in normal mode
 
     :set shellcmdflag=-ic   Bash doesn’t load your .bashrc unless it’s interactive.
                             Use to make Vim’s :! shell behave like your command prompt.
@@ -54,6 +129,8 @@
     :e                      Reload changes to the current file from disk. As simple as that.
 
     CTRL-K .3               Example of a digraph to create an ellipsis.
+    CTRL-K "6               LEFT DOUBLE QUOTATION MARK
+    CTRL-K "9               RIGHT DOUBLE QUOTATION MARK
 
     :Exp                    Shortcut for :Explore. Opens Netrw directory listing in current directory.
                             %   Create a new file in the current directory.
@@ -452,8 +529,12 @@ it “innter tag block”
     (, )                    Move by sentence (see :help sentence)
     {, }                    Move by paragraph (see :help paragraph)
 
-## Vim After 11 Years
+## Vim After 11 Years by Ian Langworth
 [Link](http://statico.github.io/vim.html)
+
+    nmap <Leader>l :setlocal number!<CR>
+    nmap <Leader>o :set paste!<CR>
+    nmap <Leader>m :nohlsearch<CR>
 
     :b#                     Open the previously viewed buffer
     :e#                     Same as above
@@ -658,8 +739,15 @@ Useful if editing files of different types. Switch tab indentation for example.
     :help find-manpage
     :runtime ftplugin/man.vim
 
-## Folding (skipped)
+## Folding
 [Link](http://usevim.com/2012/08/31/vim101-folding/)
+
+    zf{motion}              Create a fold based on `motion`
+    <visual>zf              Make a selection, then type `zf`
+    zo                      Open a fold
+    zc                      Close a fold
+    zd                      Delete the fold under the cursor
+    zE                      Eliminate all folds in the current window
 
 ## QuickFix and Grep (skipped)
 [Link](http://usevim.com/2012/08/24/vim101-quickfix/)
@@ -1090,18 +1178,21 @@ Insert mode:
     26 name registers from "a to "z
     Uppercase the name to append to register
     "1 through "0 tracks recent deletes
+    "- last "small" delete
+
+    "_ black hole forgets everything put in it
+    "/ last search
+
+    ". last inserted text
+    ": last Ex command
     "% current filename
     "# alternate filename
-    "- last "small" delete
-    ". last inserted text
 
-    "/ last search
-    ": last Ex command
     "* system clipboard (OS X)
     "*yy yank the current line into the OS X clipboard
     "*p paste from the OS clipboard
     "+ system selection (X11)
-    "_ black hole forgets
+
     "<register><operator>
     :set clipboard=unnamed (link unnamed register and OS clipboard)
 
