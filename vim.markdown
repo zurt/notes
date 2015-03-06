@@ -38,6 +38,14 @@
 
 ## Learned through use
 
+    :set spell              Turn on spellchecking
+    :set nospell            Turn off spellchecking
+    ]s                      Next mispelled word
+    [s                      Previous misspelled word
+    zg                      Add word to the dictionary
+    zug                     Undo addition of a word to the dictionary
+    z=                      Spelling suggestions
+
     :tabfir                 Short for :tabfirst
     :tablast                Jump to the last tab
 
