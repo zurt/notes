@@ -13,3 +13,7 @@ A huge amount of thanks to `@alex_young` for all of the great material on [usevi
 ## EmberConf 2014
 
 The first EmberConf in Portland was a huge success for the Ember community. I really valued the exposure to the broad range of participants and topics.
+
+## EmberConf 2015
+
+EmberConf returned to Portland with a lot of progress to show off and plans for a big year.
