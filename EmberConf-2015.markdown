@@ -413,11 +413,11 @@ Leah Silber | [@wifelette](http://twitter.com/@wifelette) | [Tilde](http://www.t
 * C++ -> Emscripten -> asm.js -> Require in ES6 module
 * [:addon ember-cli-emscripten](https://github.com/movableink/ember-cli-emscripten)
 
-#### Katie Gengler, [@https://twitter.com/katiegengler](https://twitter.com/katiegengler)
-* Ember Observer for rating and reviewing addons
+#### Katie Gengler, [@katiegengler](https://twitter.com/katiegengler)
+* [Ember Observer](http://emberobserver.com) for rating and reviewing addons
 * [github.com/emberobserver](https://github.com/emberobserver/client)
 
-#### Erik Bryn, @ebryn
+#### Erik Bryn, [@ebryn](https://twitter.com/@ebryn)
 * CSS is hard.
 * Automatically namespace it.
 * [:addon ember-component-css](https://github.com/ebryn/ember-component-css)
