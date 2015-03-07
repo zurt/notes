@@ -39,7 +39,9 @@ The themes of the Ember community are productivity and friendliness. As mentione
 Videos
 ------
 
-[All the videos (_Coming soon…_)]()
+[All the videos (Confreaks)](http://confreaks.tv/events/emberconf2015)
+
+* [Keynote](https://www.youtube.com/watch?&v=o12-90Dm-Qs)
 
 Talks
 -----
@@ -54,10 +56,10 @@ Code of conduct: Don't exclude and make an effort to include.
 
 ### Opening Keynote
 
-Yehuda Katz and Tom Dale | [@wycats](https://twitter.com/wycats) and [@tomdale](https://twitter.com/tomdale) | [Tilde](http://www.tilde.io) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Yehuda Katz and Tom Dale | [@wycats](https://twitter.com/wycats) and [@tomdale](https://twitter.com/tomdale) | [Tilde](http://www.tilde.io) | [Slides (_Coming soon…_)]() | [Video](https://www.youtube.com/watch?&v=o12-90Dm-Qs)
 
 *  625 attendees, more ember-cli users, more addons
-*  square cash, heroku dashboard, ghost, beatport, intercom.io, consul, customer.io, nest store
+*  [Built With Ember](http://builtwithember.io): square cash, heroku dashboard, ghost, beatport, intercom.io, consul, customer.io, nest store
 *  lots of meetups
 *  3 new core team members
   * [@mixonic](https://github.com/mixonic)
@@ -166,7 +168,9 @@ Steve Trevathan | [@strevat](http://twitter.com/@strevat) | [Dockyard](http://do
 
 ### Hijacking Hacker News with Ember.js
 
-Godfrey Chan | [@chancancode](http://twitter.com/@chancancode) | [brewhouse](http://brewhouse.io) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Godfrey Chan | [@chancancode](http://twitter.com/@chancancode) | [brewhouse](http://brewhouse.io) | [Slides](https://speakerdeck.com/chancancode/hijacking-hacker-news-with-ember-dot-js) | [Video (_Coming soon…_)]()
+
+[Blog post: Adapter Patterns in Ember.js](http://brewhouse.io/blog/2015/03/06/adapter-patterns-in-ember-js.html)
 
 * Canada!
 * _Adapter pattern_
@@ -311,7 +315,9 @@ Dan Gebhardt | [@dgeb](https://twitter.com/@dgeb) | [Cerebris](http://www.cerebr
 
 ### Aligning Ember with Web Standards
 
-Matthew Beale | [@mixonic](http://twitter.com/@mixonic) | [201 Created](http://www.201-created.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Matthew Beale | [@mixonic](http://twitter.com/@mixonic) | [201 Created](http://www.201-created.com) | [Slides](http://www.slideshare.net/mixonic/aligning-emberjs-with-web-standards) | [Video (_Coming soon…_)]()
+
+[Blog post: Aligning Ember.js with Web Standards](http://madhatted.com/2015/3/6/aligning-ember-js-with-web-standards-emberconf-2015)
 
 1. JS standardization process is changing -> “Living Standard” like HTML -> ES2015
 Standards
