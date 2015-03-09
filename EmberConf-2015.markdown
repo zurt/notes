@@ -216,7 +216,7 @@ Luke Melia | [@lukemelia](https://twitter.com/@lukemelia) | [Yapp](https://www.y
 
 ### Ambitious UX for Ambitious Apps
 
-Lauren Tan | [@sugarpirate_](https://twitter.com/@sugarpirate_) | [Homely](http://www.homely.com.au) | [Slides](bit.ly/sugarpirate)
+Lauren Tan | [@sugarpirate_](https://twitter.com/@sugarpirate_) | [Homely](http://www.homely.com.au) | [Slides](http://bit.ly/sugarpirate)
 
 Self-taught designer, then self-taught developer.
 
