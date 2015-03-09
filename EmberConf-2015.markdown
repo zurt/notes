@@ -401,9 +401,8 @@ Steve Kinney | [@stevekinney](http://twitter.com/@stevekinney) | [Turing School]
 Leah Silber | [@wifelette](http://twitter.com/@wifelette) | [Tilde](http://www.tilde.io) | [Video (_Coming soon…_)]()
 
 #### Bill Heaton, [@pixelhandler](https://twitter.com/@pixelhandler)
-* Measure Performance with the User Timing API
+* [Measure Performance with the User Timing API](http://pixelhandler.com/posts/measuring-performance-with-user-timing-api-in-an-ember-application)
 * Start measuring now and analyzing as you gain a better understanding of the appropriate statistical approach.
-* [Slides](https://github.com/pixelhandler/ember-slide-deck)
 
 #### Mitch Lloyd, [@too_mitch](https://twitter.com/@too_mitch)
 * Bring Ember to Your Server Rendered Application
