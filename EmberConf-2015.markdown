@@ -183,7 +183,7 @@ Godfrey Chan | [@chancancode](https://twitter.com/@chancancode) | [brewhouse](ht
 
 ### The Art of Ember Deployment
 
-Luke Melia | [@lukemelia](https://twitter.com/@lukemelia) | [Yapp](https://www.yapp.us) | [Slides](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
+Luke Melia | [@lukemelia](https://twitter.com/@lukemelia) | [Yapp](https://www.yapp.us) | [Slides](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment) | [Video _Coming soon…_]()
 
 “The future is already here, it's just not very evenly distributed.” -William Gibson
 
@@ -216,7 +216,7 @@ Luke Melia | [@lukemelia](https://twitter.com/@lukemelia) | [Yapp](https://www.y
 
 ### Ambitious UX for Ambitious Apps
 
-Lauren Tan | [@sugarpirate_](https://twitter.com/@sugarpirate_) | [Homely](http://www.homely.com.au) | [Slides](http://bit.ly/sugarpirate)
+Lauren Tan | [@sugarpirate_](https://twitter.com/@sugarpirate_) | [Homely](http://www.homely.com.au) | [Slides](http://bit.ly/sugarpirate) | [Video _Coming soon…_]()
 
 Self-taught designer, then self-taught developer.
 
@@ -244,7 +244,7 @@ Self-taught designer, then self-taught developer.
 
 ### Bring Sanity to Frontend Infrastructure with Ember
 
-Sam Selikoff | [@samselikoff](https://twitter.com/@samselikoff) | [TED](http://www.ted.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Sam Selikoff | [@samselikoff](https://twitter.com/@samselikoff) | [TED](http://www.ted.com) | [Slides](http://www.slideshare.net/samselikoff/frontend-infrastructure) | [Video (_Coming soon…_)]()
 
 * Issues scaling frontend from monolith at the start to multiple APIs and Interfaces.
 * Ember and Ember CLI
@@ -354,7 +354,7 @@ Jamie White | [@jgwhite](https://twitter.com/@jgwhite) | [With Associates](http:
 
 ### Interaction Design with Ember 2.0 and Polymer
 
-Bryan Langslet | [@blangslet](https://twitter.com/@blangslet) | [Envoy](http://signwithenvoy.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Bryan Langslet | [@blangslet](https://twitter.com/@blangslet) | [Envoy](http://signwithenvoy.com) | [Slides](https://speakerdeck.com/blangslet/interaction-design-with-ember-2-dot-0-and-polymer) | [Video (_Coming soon…_)]()
 
 [Demo video](https://www.youtube.com/watch?v=lXWVmbs5O8A)
 
