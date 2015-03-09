@@ -34,7 +34,7 @@ The themes of the Ember community are productivity and friendliness. As mentione
   4. [Ember Data 1.0](http://emberjs.com/blog/2014/03/18/the-road-to-ember-data-1-0.html) has an official beta release date!
 
 ### Links to EmberConf 2015 resources:
-* [EmberConf 2015 Summary](https://github.com/poteto/emberconf-2015) from [@sugarpirate_](http://twitter.com/@sugarpirate_)
+* [EmberConf 2015 Summary](https://github.com/poteto/emberconf-2015) from [@sugarpirate_](https://twitter.com/@sugarpirate_)
 
 Videos
 ------
@@ -56,7 +56,7 @@ Code of conduct: Don't exclude and make an effort to include.
 
 ### Opening Keynote
 
-Yehuda Katz and Tom Dale | [@wycats](https://twitter.com/wycats) and [@tomdale](https://twitter.com/tomdale) | [Tilde](http://www.tilde.io) | [Slides (_Coming soon…_)]() | [Video](https://www.youtube.com/watch?&v=o12-90Dm-Qs)
+Yehuda Katz and Tom Dale | [@wycats](https://twitter.com/wycats) and [@tomdale](https://twitter.com/tomdale) | [Tilde](http://www.tilde.io) | [Slides](https://speakerdeck.com/wycats/emberconf-2015-keynote) | [Video](https://www.youtube.com/watch?&v=o12-90Dm-Qs)
 
 *  625 attendees, more ember-cli users, more addons
 *  [Built With Ember](http://builtwithember.io): square cash, heroku dashboard, ghost, beatport, intercom.io, consul, customer.io, nest store
@@ -109,7 +109,7 @@ _“Your antidote to the hype fatigue”_
 
 ### Ember.js Performance
 
-Stefan Penner | [@stefanpenner](http://twitter.com/@stefanpenner) | [Yahoo!](https://www.yahoo.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Stefan Penner | [@stefanpenner](https://twitter.com/@stefanpenner) | [Yahoo!](https://www.yahoo.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
 
 * Promises performance improvements
   * Look inside the black box of browser performance
@@ -144,7 +144,7 @@ Stefan Penner | [@stefanpenner](http://twitter.com/@stefanpenner) | [Yahoo!](htt
 
 ### Designing for Ember Apps
 
-Steve Trevathan | [@strevat](http://twitter.com/@strevat) | [Dockyard](http://dockyard.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Steve Trevathan | [@strevat](https://twitter.com/@strevat) | [Dockyard](http://dockyard.com) | [Slides](https://speakerdeck.com/kidfribble/designing-for-single-page-applications) | [Video (_Coming soon…_)]()
 
 * Designing single page apps.
 * Users are difficult.
@@ -168,7 +168,7 @@ Steve Trevathan | [@strevat](http://twitter.com/@strevat) | [Dockyard](http://do
 
 ### Hijacking Hacker News with Ember.js
 
-Godfrey Chan | [@chancancode](http://twitter.com/@chancancode) | [brewhouse](http://brewhouse.io) | [Slides](https://speakerdeck.com/chancancode/hijacking-hacker-news-with-ember-dot-js) | [Video (_Coming soon…_)]()
+Godfrey Chan | [@chancancode](https://twitter.com/@chancancode) | [brewhouse](http://brewhouse.io) | [Slides](https://speakerdeck.com/chancancode/hijacking-hacker-news-with-ember-dot-js) | [Video (_Coming soon…_)]()
 
 [Blog post: Adapter Patterns in Ember.js](http://brewhouse.io/blog/2015/03/06/adapter-patterns-in-ember-js.html)
 
@@ -183,7 +183,7 @@ Godfrey Chan | [@chancancode](http://twitter.com/@chancancode) | [brewhouse](htt
 
 ### The Art of Ember Deployment
 
-Luke Melia | [@lukemelia](http://twitter.com/@lukemelia) | [Yapp](https://www.yapp.us) | [Slides](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
+Luke Melia | [@lukemelia](https://twitter.com/@lukemelia) | [Yapp](https://www.yapp.us) | [Slides](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
 
 “The future is already here, it's just not very evenly distributed.” -William Gibson
 
@@ -216,7 +216,7 @@ Luke Melia | [@lukemelia](http://twitter.com/@lukemelia) | [Yapp](https://www.ya
 
 ### Ambitious UX for Ambitious Apps
 
-Lauren Tan | [@sugarpirate_](http://twitter.com/@sugarpirate_) | [Homely](http://www.homely.com.au) | [Slides](bit.ly/sugarpirate)
+Lauren Tan | [@sugarpirate_](https://twitter.com/@sugarpirate_) | [Homely](http://www.homely.com.au) | [Slides](bit.ly/sugarpirate)
 
 Self-taught designer, then self-taught developer.
 
@@ -244,7 +244,7 @@ Self-taught designer, then self-taught developer.
 
 ### Bring Sanity to Frontend Infrastructure with Ember
 
-Sam Selikoff | [@samselikoff](http://twitter.com/@samselikoff) | [TED](http://www.ted.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Sam Selikoff | [@samselikoff](https://twitter.com/@samselikoff) | [TED](http://www.ted.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
 
 * Issues scaling frontend from monolith at the start to multiple APIs and Interfaces.
 * Ember and Ember CLI
@@ -256,7 +256,7 @@ Sam Selikoff | [@samselikoff](http://twitter.com/@samselikoff) | [TED](http://ww
 
 ### Dynamic Graphic Composition in Ember
 
-Chris Henn | [@cwhnn](https://twitter.com/@cwhnn) | [chrishenn.net](http://chrishenn.net/) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Chris Henn | [@cwhnn](https://twitter.com/@cwhnn) | [chrishenn.net](http://chrishenn.net/) | [Slides](https://speakerdeck.com/chnn/composing-data-visualizations-in-ember) | [Video (_Coming soon…_)]()
 
 * [github.com/chnn/composing-graphics](https://github.com/chnn/composing-graphics)
 * How should we split a statistical graphic into parts?
@@ -266,11 +266,12 @@ Chris Henn | [@cwhnn](https://twitter.com/@cwhnn) | [chrishenn.net](http://chris
 * Scatterplot example
 * [Leland Wilkinson's The Grammar of Graphics (1999)](http://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)
 * [Hadley Wickham's A Grammar of Graphics: Past, Present, and Future (2007)](http://ggplot2.org/resources/2007-past-present-future.pdf)
+* [Hadley Wickham, Stat405: Grammar of Graphics (2012)](http://stat405.had.co.nz/lectures/21-grammar-of-graphics.pdf)
 * What does this look like in Ember?
 
 ### Test-Driven Development by Example
 
-Toran Billups | [@toranb](http://twitter.com/@toranb) | [toranbillups.com](http://toranbillups.com) | [Video (_Coming soon…_)]()
+Toran Billups | [@toranb](https://twitter.com/@toranb) | [toranbillups.com](http://toranbillups.com) | [Video (_Coming soon…_)]()
 
 * Live coding like no one is watching.
 * Building an app and writing tests.
@@ -315,7 +316,7 @@ Dan Gebhardt | [@dgeb](https://twitter.com/@dgeb) | [Cerebris](http://www.cerebr
 
 ### Aligning Ember with Web Standards
 
-Matthew Beale | [@mixonic](http://twitter.com/@mixonic) | [201 Created](http://www.201-created.com) | [Slides](http://www.slideshare.net/mixonic/aligning-emberjs-with-web-standards) | [Video (_Coming soon…_)]()
+Matthew Beale | [@mixonic](https://twitter.com/@mixonic) | [201 Created](http://www.201-created.com) | [Slides](http://www.slideshare.net/mixonic/aligning-emberjs-with-web-standards) | [Video (_Coming soon…_)]()
 
 [Blog post: Aligning Ember.js with Web Standards](http://madhatted.com/2015/3/6/aligning-ember-js-with-web-standards-emberconf-2015)
 
@@ -339,7 +340,7 @@ Standards
 
 ### Growing Ember One Tomster at a Time
 
-Jamie White | [@jgwhite](http://twitter.com/@jgwhite) | [With Associates](http://2015.withassociates.com) | [Slides](https://speakerdeck.com/jgwhite/growing-ember-one-tomster-at-a-time) | [Video (_Coming soon…_)]()
+Jamie White | [@jgwhite](https://twitter.com/@jgwhite) | [With Associates](http://2015.withassociates.com) | [Slides](https://speakerdeck.com/jgwhite/growing-ember-one-tomster-at-a-time) | [Video (_Coming soon…_)]()
 
 * Community is vibrant. How did that come about?
 * Reflections on EmberConf 2014
@@ -353,7 +354,9 @@ Jamie White | [@jgwhite](http://twitter.com/@jgwhite) | [With Associates](http:/
 
 ### Interaction Design with Ember 2.0 and Polymer
 
-Bryan Langslet | [@blangslet](http://twitter.com/@blangslet) | [Envoy](http://signwithenvoy.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Bryan Langslet | [@blangslet](https://twitter.com/@blangslet) | [Envoy](http://signwithenvoy.com) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+
+[Demo video](https://www.youtube.com/watch?v=lXWVmbs5O8A)
 
 * Ember + Polymer + Material Design
 * Ember-Flow
@@ -371,7 +374,7 @@ Bryan Langslet | [@blangslet](http://twitter.com/@blangslet) | [Envoy](http://si
 
 ### Building Custom Apps with Ember CLI
 
-Brittany Storoz | [@brittanystoroz](http://twitter.com/@brittanystoroz) | [Mozilla](https://www.mozilla.org) | [Slides](http://brittanystoroz.github.io/presentations/embercli-fxos/#/) | [Video (_Coming soon…_)]()
+Brittany Storoz | [@brittanystoroz](https://twitter.com/@brittanystoroz) | [Mozilla](https://www.mozilla.org) | [Slides](http://brittanystoroz.github.io/presentations/embercli-fxos/#/) | [Video (_Coming soon…_)]()
 
 * Firefox OS build tool
 * Rec Room -> Ember CLI
@@ -384,7 +387,7 @@ Brittany Storoz | [@brittanystoroz](http://twitter.com/@brittanystoroz) | [Mozil
 
 ### Building Real-Time Applications with Ember
 
-Steve Kinney | [@stevekinney](http://twitter.com/@stevekinney) | [Turing School](http://turing.io) | [Slides (_Coming soon…_)]() | [Video (_Coming soon…_)]()
+Steve Kinney | [@stevekinney](https://twitter.com/@stevekinney) | [Turing School](http://turing.io) | [Slides](http://www.slideshare.net/stevekinney/building-realtime-applications-in-emberjs) | [Video (_Coming soon…_)]()
 
 *  Real-time applications
 *  A story about WebSockets…
@@ -398,7 +401,7 @@ Steve Kinney | [@stevekinney](http://twitter.com/@stevekinney) | [Turing School]
 
 ### Minitalks
 
-Leah Silber | [@wifelette](http://twitter.com/@wifelette) | [Tilde](http://www.tilde.io) | [Video (_Coming soon…_)]()
+Leah Silber | [@wifelette](https://twitter.com/@wifelette) | [Tilde](http://www.tilde.io) | [Video (_Coming soon…_)]()
 
 #### Bill Heaton, [@pixelhandler](https://twitter.com/@pixelhandler)
 * [Measure Performance with the User Timing API](http://pixelhandler.com/posts/measuring-performance-with-user-timing-api-in-an-ember-application)
@@ -429,7 +432,7 @@ Leah Silber | [@wifelette](http://twitter.com/@wifelette) | [Tilde](http://www.t
 
 ### Physical Design
 
-Edward Faulkner | [@eaf4](http://twitter.com/@eaf4) | [braveleaf](https://braveleaf.com) | [Slides (Coming soon…]() | [Video (_Coming soon…_)]()
+Edward Faulkner | [@eaf4](https://twitter.com/@eaf4) | [braveleaf](https://braveleaf.com) | [Slides (Coming soon…]() | [Video (_Coming soon…_)]()
 
 * [:addon liquid-fire](https://github.com/ef4/liquid-fire)
 * [Demonstration](https://github.com/ef4/physical-design-demo)
@@ -443,7 +446,7 @@ Edward Faulkner | [@eaf4](http://twitter.com/@eaf4) | [braveleaf](https://bravel
 
 ### Closing Keynote: Coming Soon!
 
-Chris Eppstein | [@chriseppstein](http://twitter.com/@chriseppstein) | [LinkedIn](https://www.linkedin.com) | [Slides](http://www.slideshare.net/chriseppstein/ember-closing-keynote) | [Video (_Coming soon…_)]()
+Chris Eppstein | [@chriseppstein](https://twitter.com/@chriseppstein) | [LinkedIn](https://www.linkedin.com) | [Slides](http://www.slideshare.net/chriseppstein/ember-closing-keynote) | [Video (_Coming soon…_)]()
 
 * Announcing: [Sass Eyeglass](https://github.com/sass-eyeglass/eyeglass)
 * Eyeglass is the JS equivalent of Compass
