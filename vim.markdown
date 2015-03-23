@@ -44,7 +44,7 @@
                             [Bulk rename files with Vim](http://vim.wikia.com/wiki/Bulk_rename_files_with_Vim)
                             [Using an expression in substitute command](http://vim.wikia.com/wiki/VimTip755)
 
-    :%s#.*#                 For substitute when you need to match `/`
+    :%s#.*#                 For substitute when you need to match `/`. Delimiter can be any character.
 
     :n                      Next file
     :N                      Previous file
@@ -388,6 +388,35 @@ only display the cursorline in the current window
 [Link](http://vimdoc.sourceforge.net/htmldoc/pattern.html#last-pattern)
     To clear the last used search pattern:
     :let @/ = ""
+
+## Up and Running with vi with David D. Levine
+[Link](http://www.lynda.com/vi-tutorials/brief-introduction-regular-expressions/170336/188825-4.html)
+
+6.2 A brief introduction to regular expressions
+
+* \(\) Repeats Multiple Items
+    /\(ab\)*c matches "ababababababc"
+* Greediness
+  * `/<.*>` matches all of `<i>italic</i>`
+  * `/<[^>]*>` matches only the opening tag of `<i>italic</i>`
+
+6.4 Searching and replacing text
+
+* & in the replacement text of a substitution will place the match:
+  * `:%s/the[ym]/(&)/g`
+    * "they or them" -> "(they) or (them)"
+* Grouping
+  * Switch "they them" to "them they": `:%s/\(they\) \(were\)/\2 \1/`
+
+7.1 Indenting, auto-indent, and word wrap
+
+* `i_CTRL-D` to delete one shiftwidth of indent at the start of the current line (while auto-indent is on).
+* Auto-indent
+  * `:set ai` enables auto-indent
+  * `:set noai` disables auto-indent
+* Wrap margin
+  * `:set wm=8` enables wrap margin
+  * `:set wm=0` disables wrap margin
 
 ## Your problem with Vim is that you don't grok vi
 [Link](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
