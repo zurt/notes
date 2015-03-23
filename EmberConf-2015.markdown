@@ -34,7 +34,7 @@ The themes of the Ember community are productivity and friendliness. As mentione
   4. [Ember Data 1.0](http://emberjs.com/blog/2014/03/18/the-road-to-ember-data-1-0.html) has an official beta release date!
 
 ### Links to EmberConf 2015 resources:
-* [EmberConf 2015 Summary](https://github.com/poteto/emberconf-2015) from [@sugarpirate_](https://twitter.com/@sugarpirate_)
+* [EmberConf 2015 Summary](https://github.com/poteto/emberconf-2015) from Lauren Tan ([@sugarpirate_](https://twitter.com/@sugarpirate_))
 
 Videos
 ------
@@ -135,7 +135,7 @@ _“Your antidote to the hype fatigue”_
 
 ### Ember.js Performance
 
-Stefan Penner | [@stefanpenner](https://twitter.com/@stefanpenner) | [Yahoo!](https://www.yahoo.com) | [Slides (_Coming soon…_)]() | [Video](http://confreaks.tv/videos/emberconf2015-ember-js-performance)
+Stefan Penner | [@stefanpenner](https://twitter.com/@stefanpenner) | [Yahoo!](https://www.yahoo.com) | [Slides](http://static.iamstef.net/ember-js-performance.pdf) | [Video](http://confreaks.tv/videos/emberconf2015-ember-js-performance)
 
 * Promises performance improvements
   * Look inside the black box of browser performance
@@ -242,7 +242,7 @@ Luke Melia | [@lukemelia](https://twitter.com/@lukemelia) | [Yapp](https://www.y
 
 ### Ambitious UX for Ambitious Apps
 
-Lauren Tan | [@sugarpirate_](https://twitter.com/@sugarpirate_) | [Homely](http://www.homely.com.au) | [Slides](http://bit.ly/sugarpirate) | [Video](http://confreaks.tv/videos/emberconf2015-ambitious-ux-for-ambitious-apps)
+Lauren Tan | [@sugarpirate_](https://twitter.com/@sugarpirate_) | [Homely](http://www.homely.com.au) | [Slides](https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps) | [Video](http://confreaks.tv/videos/emberconf2015-ambitious-ux-for-ambitious-apps)
 
 Self-taught designer, then self-taught developer.
 
@@ -338,7 +338,7 @@ Dan Gebhardt | [@dgeb](https://twitter.com/@dgeb) | [Cerebris](http://www.cerebr
   * …more
 * ember-orbit
 * [github.com/orbitjs](https://github.com/orbitjs)
-* [orbitjs.com](http://orbitjs.com): Coming soon…
+* [orbitjs.com](http://orbitjs.com): Future home of the Orbit.js project.
 
 ### Aligning Ember with Web Standards
 
