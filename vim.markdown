@@ -38,6 +38,30 @@
 
 ## Learned through use
 
+    $ \ls *.avi | vim -     Rename files in Vim
+    :%s/.*/\='mv -iv '.submatch(0).' '.substitute(submatch(0),'\d\+-2015','2015','g')/g
+    :'<,'>!bash
+                            [Bulk rename files with Vim](http://vim.wikia.com/wiki/Bulk_rename_files_with_Vim)
+                            [Using an expression in substitute command](http://vim.wikia.com/wiki/VimTip755)
+
+    :%s#.*#                 For substitute when you need to match `/`
+
+    :n                      Next file
+    :N                      Previous file
+
+    $ vim -o a.txt b.txt    Open list of files into horizontal splits
+    $ vim -O a.txt b.txt    Open list of files into vertical splits
+    $ vim -p a.txt b.txt    Open list of files into tabs
+    $ vim -p _*.scss        Open matching files into tabs
+
+    :set ic?                Get value for `ignorecase` case sensitivity
+    :set noic               Set `noignorecase`
+
+    <C-a>                   Increment the number under the cursor
+
+    Ctrl-G                  Show file status and location in file
+    1 Ctrl-G                Show full file path
+
     :set spell              Turn on spellchecking
     :set nospell            Turn off spellchecking
     ]s                      Next mispelled word
@@ -48,6 +72,20 @@
 
     :tabfir                 Short for :tabfirst
     :tablast                Jump to the last tab
+
+    $ vim -R filename       Open file in read-only mode
+
+    :g/^/m0                 Reverse lines
+
+    :g!/pattern/d           Delete all lines that do not match pattern
+
+    :g!/^\d\{3})/d          Delete all lines that do not start with three digits and close parathesis
+
+    [Select all lines containing pattern and copy to a register](http://vim.wikia.com/wiki/Copy_search_matches)
+    qaq                     Clear register `a`
+    :g/pattern/y A          Append line matching pattern to register `a`
+
+    :g/^$/d                 Delete all blank lines:
 
     ga                      Identify character under cursor in command mode
                             "Get Ascii": decimal, hex, and octal
@@ -206,13 +244,6 @@ surround.vim
     g-                      Move backward in history
     g+                      Move forward in history
 
-    :g/debugger/s//\/\/debugger/g
-                            Replace debugger with //debugger throughout the whole file
-    :g/\/\/debugger/s//debugger/g
-                            Replace //debugger with debugger throughout the whole file
-
-    U                       Uppercase selected text
-    u                       Lowercase selected text
     :g/debugger/s//\/\/debugger/g
                             Replace debugger with //debugger throughout the whole file
     :g/\/\/debugger/s//debugger/g
@@ -1113,7 +1144,8 @@ Return to slide 124/136 to review Text Objects
     c      change operator
     ce     delete from cursor until the end of the word, go to insert mode
 
-Ctrl-G show file status and location in file
+    Ctrl-G show file status and location in file
+
     G      go to last line
     gg     go to first line
     #G     go to line number #
