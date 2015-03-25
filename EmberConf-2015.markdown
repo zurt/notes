@@ -49,7 +49,7 @@ Videos
 * [Ember.js Performance by Stefan Penner](http://confreaks.tv/videos/emberconf2015-ember-js-performance)
 * [Designing for Ember Apps by Steve Trevathan](http://confreaks.tv/videos/emberconf2015-designing-for-ember-apps)
 * [Hijacking Hacker News with Ember.js by Godfrey Chan](http://confreaks.tv/videos/emberconf2015-hijacking-hackers-news-with-ember-js)
-* [The Art of Ember Deployment by Luke Melia](http://confreaks.tv/videos/emberconf2015-the-art-of-ember-employment)
+* [The Art of Ember Deployment by Luke Melia](http://confreaks.tv/videos/emberconf2015-the-art-of-ember-deployment)
 * [Ambitious UX for Ambitious Apps by Lauren Tan](http://confreaks.tv/videos/emberconf2015-ambitious-ux-for-ambitious-apps)
 * [Bring Sanity to Frontend Infrastructure with Ember by Sam Selikoff](http://confreaks.tv/videos/emberconf2015-bring-sanity-to-frontend-infrastructure-with-ember)
 * [Dynamic Graphic Composition in Ember by Chris Henn](http://confreaks.tv/videos/emberconf2015-dynamic-graphic-composition-in-ember)
@@ -209,7 +209,7 @@ Godfrey Chan | [@chancancode](https://twitter.com/@chancancode) | [brewhouse](ht
 
 ### The Art of Ember Deployment
 
-Luke Melia | [@lukemelia](https://twitter.com/@lukemelia) | [Yapp](https://www.yapp.us) | [Slides](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment) | [Video](http://confreaks.tv/videos/emberconf2015-the-art-of-ember-employment)
+Luke Melia | [@lukemelia](https://twitter.com/@lukemelia) | [Yapp](https://www.yapp.us) | [Slides](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment) | [Video](http://confreaks.tv/videos/emberconf2015-the-art-of-ember-deployment)
 
 “The future is already here, it's just not very evenly distributed.” -William Gibson
 
