@@ -64,6 +64,12 @@ Videos
 * [Building Custom Apps with Ember CLI by Brittany Storoz](http://confreaks.tv/videos/emberconf2015-building-custom-apps-with-ember-cli)
 * [Building Real-Time Applications with Ember by Steve Kinney](http://confreaks.tv/videos/emberconf2015-building-real-time-applications-with-ember)
 * [Minitalks by Leah Silber](http://confreaks.tv/videos/emberconf2015-minitalks)
+  * [Measuring Performance by Bill Heaton](http://confreaks.tv/videos/emberconf2015-measuring-performance)
+  * [Ember Islands by Mitch Lloyd](http://confreaks.tv/videos/emberconf2015-ember-islands)
+  * [Ember Testing with Chemistry Dog by Liz Baillie](http://confreaks.tv/videos/emberconf2015-ember-testing-with-chemistry-dog)
+  * [Running C in Ember CLI with Emscripten by Michael Nutt](http://confreaks.tv/videos/emberconf2015-running-c-in-ember-cli-with-emscripten)
+  * [Ember Observer by Katie Gengler](http://confreaks.tv/videos/emberconf2015-ember-observer)
+  * [CSS is Hard by Erik Bryn](http://confreaks.tv/videos/emberconf2015-css-is-hard)
 * [Physical Design by Edward Faulkner](http://confreaks.tv/videos/emberconf2015-physical-design)
 * [Closing Keynote: Coming Soon! by Chris Eppstein](http://confreaks.tv/videos/emberconf2015-closing-keynote)
 
@@ -429,29 +435,35 @@ Steve Kinney | [@stevekinney](https://twitter.com/@stevekinney) | [Turing School
 
 Leah Silber | [@wifelette](https://twitter.com/@wifelette) | [Tilde](http://www.tilde.io) | [Video](http://confreaks.tv/videos/emberconf2015-minitalks)
 
-#### Bill Heaton, [@pixelhandler](https://twitter.com/@pixelhandler)
+Bill Heaton | [@pixelhandler](https://twitter.com/@pixelhandler) | [Video](http://confreaks.tv/videos/emberconf2015-measuring-performance)
+
 * [Measure Performance with the User Timing API](http://pixelhandler.com/posts/measuring-performance-with-user-timing-api-in-an-ember-application)
 * Start measuring now and analyzing as you gain a better understanding of the appropriate statistical approach.
 
-#### Mitch Lloyd, [@too_mitch](https://twitter.com/@too_mitch)
+Mitch Lloyd | [@too_mitch](https://twitter.com/@too_mitch) | [Video](http://confreaks.tv/videos/emberconf2015-ember-islands)
+
 * Bring Ember to Your Server Rendered Application
 * [:addon ember-islands](https://github.com/mitchlloyd/ember-islands)
 
-#### Liz Baillie, [@infinite_math](https://twitter.com/@infinite_math)
+Liz Baillie | [@infinite_math](https://twitter.com/@infinite_math) | [Video](http://confreaks.tv/videos/emberconf2015-ember-testing-with-chemistry-dog)
+
 * Flatiron School
 * Ember Testing with Chemistry Dog
 * Jumped in with the goal of becoming the Ember testing expert
 
-#### Michael Nutt, [@michaeln3](https://twitter.com/michaeln3)
+Michael Nutt | [@michaeln3](https://twitter.com/michaeln3) | [Video](http://confreaks.tv/videos/emberconf2015-running-c-in-ember-cli-with-emscripten)
+
 * [Crossfilter](http://square.github.io/crossfilter/) project by, Mike Bostock, the creator of D3.js
 * C++ -> Emscripten -> asm.js -> Require in ES6 module
 * [:addon ember-cli-emscripten](https://github.com/movableink/ember-cli-emscripten)
 
-#### Katie Gengler, [@katiegengler](https://twitter.com/katiegengler)
+Katie Gengler | [@katiegengler](https://twitter.com/katiegengler) | [Video](http://confreaks.tv/videos/emberconf2015-ember-observer)
+
 * [Ember Observer](http://emberobserver.com) for rating and reviewing addons
 * [github.com/emberobserver](https://github.com/emberobserver/client)
 
-#### Erik Bryn, [@ebryn](https://twitter.com/@ebryn)
+Erik Bryn | [@ebryn](https://twitter.com/@ebryn) | [Video](http://confreaks.tv/videos/emberconf2015-css-is-hard)
+
 * CSS is hard.
 * Automatically namespace it.
 * [:addon ember-component-css](https://github.com/ebryn/ember-component-css)
