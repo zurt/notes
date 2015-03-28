@@ -228,7 +228,8 @@ Luke Melia | [@lukemelia](https://twitter.com/@lukemelia) | [Yapp](https://www.y
 * Key differences:
   * HTML pages bootstrap Ember apps
     * Points to fingerprinted assets, but is not itself fingerprinted.
-    * …
+    * Contains JS and CSS links to boot JS app and load CSS in the right order.
+    * Good place for environment-specific configuration to JavaScript.
 * Use Redis (low latency store) to deploy index.html to app server.
   * Allows
     * Preview before activating.
@@ -341,6 +342,11 @@ Dan Gebhardt | [@dgeb](https://twitter.com/@dgeb) | [Cerebris](http://www.cerebr
   * Memory
   * Local storage
   * JSON API
+  * …more
+* Schema
+  * Models
+  * Relationships
+  * Keys
   * …more
 * ember-orbit
 * [github.com/orbitjs](https://github.com/orbitjs)
