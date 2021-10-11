@@ -232,6 +232,7 @@ I should probably investigate further to figure out what's actually going on.
     CTRL-E                  End
 
 surround.vim
+
     ysiw<em>                Surround word under cursor with <em></em>
     cst<strong>             Change surrounding tag to <strong></strong>
     dst                     Delete surrounding tag
